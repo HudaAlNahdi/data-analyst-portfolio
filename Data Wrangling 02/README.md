@@ -21,6 +21,9 @@ To ensure the dataset is accurate, consistent, and ready for analysis.
 
 ### Files included
 
+* data wrangling.ipyno
+* finding duplicates.ipyno
 * missing_values.ipynb
 * duplicates.ipynb
 * normalization.ipynb
+
